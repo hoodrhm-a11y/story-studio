@@ -1,0 +1,17 @@
+{
+  "dark-cartoon": {
+    "label": "Dark cartoon story",
+    "base_figure": "Every person is drawn as the same simple cartoon figure: a perfectly round smooth plain white head with no hair, no ears and no nose, small expressive black dot eyes, bold eyebrows, a simple mouth, and thin black stick-like limbs. Clothing, hats, glasses, hairstyles worn as accessories and props change per character to fit the story.",
+    "art": "Hand-drawn cartoon illustration in a dark storytelling style: thick black ink outlines, chunky clothes with folds and shading, highly detailed gritty painterly background with crosshatching and scattered particles, muted desaturated colours, cinematic dramatic lighting, deep shadows, film grain, comic panel quality, sharp, high definition. No text, no letters, no words, no watermark, no speech bubbles."
+  },
+  "bright-cartoon": {
+    "label": "Bright cartoon",
+    "base_figure": "Every person is drawn as the same simple cartoon figure: a perfectly round smooth plain white head with no hair, no ears and no nose, small expressive black dot eyes, bold eyebrows, a simple mouth, and thin black stick-like limbs. Clothing, hats, glasses and props change per character to fit the story.",
+    "art": "Clean bright cartoon illustration: bold black outlines, flat saturated colours with soft shading, detailed cheerful backgrounds, warm daylight, playful mood, sharp, high definition. No text, no letters, no words, no watermark, no speech bubbles."
+  },
+  "storybook": {
+    "label": "Kids storybook",
+    "base_figure": "Every person is drawn as the same simple cartoon figure: a perfectly round smooth plain white head with no hair, no ears and no nose, small friendly black dot eyes, soft eyebrows, a simple mouth, and thin black stick-like limbs. Clothing and props change per character to fit the story.",
+    "art": "Soft watercolour children's storybook illustration, gentle pencil outlines, pastel colours, cosy detailed backgrounds, warm magical lighting, sharp, high definition. No text, no letters, no words, no watermark."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "young-narrator": {
+    "label": "Young male narrator (Puck + Eric)",
+    "engine": "kokoro",
+    "blend": {"am_puck": 0.7, "am_eric": 0.3},
+    "lang": "en-us",
+    "speed": 1.08
+  },
+  "deep-narrator": {
+    "label": "Deep male narrator (Onyx)",
+    "engine": "kokoro",
+    "blend": {"am_onyx": 1.0},
+    "lang": "en-us",
+    "speed": 1.04
+  },
+  "british-narrator": {
+    "label": "British male narrator (George)",
+    "engine": "kokoro",
+    "blend": {"bm_george": 1.0},
+    "lang": "en-gb",
+    "speed": 1.06
+  },
+  "female-narrator": {
+    "label": "Female narrator (Heart)",
+    "engine": "kokoro",
+    "blend": {"af_heart": 1.0},
+    "lang": "en-us",
+    "speed": 1.05
+  }
+}
